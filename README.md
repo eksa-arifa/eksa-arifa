@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Eksa Arifa</h1>
-<h3 align="center">Want to be a full stack web developer</h3>
+<h3 align="center">Want to be a software engineer...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eksa-arifa&label=Profile%20views&color=0e75b6&style=flat" alt="eksa-arifa" /> </p>
 
