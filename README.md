@@ -103,7 +103,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/eksa-arifa/eksa-arifa/output/snake.svg" alt="Snake animation" />
-
-###
